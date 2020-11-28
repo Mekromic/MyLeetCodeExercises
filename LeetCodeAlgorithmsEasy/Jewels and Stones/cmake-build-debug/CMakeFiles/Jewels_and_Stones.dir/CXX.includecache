@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/PC/CLionProjects/LeetCodeAlgorithmsEasy/Jewels and Stones/Solution/Solution.h
+string
+-
+
+C:/Users/PC/CLionProjects/LeetCodeAlgorithmsEasy/Jewels and Stones/main.cpp
+iostream
+-
+Solution/Solution.h
+C:/Users/PC/CLionProjects/LeetCodeAlgorithmsEasy/Jewels and Stones/Solution/Solution.h
+

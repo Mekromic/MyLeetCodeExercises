@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/LeetCodeAlgorithmsEasy/Jewels and Stones/cmake-build-debug/CMakeFiles/Jewels_and_Stones.dir
+C:/Users/PC/CLionProjects/LeetCodeAlgorithmsEasy/Jewels and Stones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/LeetCodeAlgorithmsEasy/Jewels and Stones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
