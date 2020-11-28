@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/PC/CLionProjects/LeetCodeAlgorithmsEasy/Check If Two String Arrays are Equivalent/Solution/Solution.cpp
+Solution.h
+C:/Users/PC/CLionProjects/LeetCodeAlgorithmsEasy/Check If Two String Arrays are Equivalent/Solution/Solution.h
+algorithm
+-
+
+C:/Users/PC/CLionProjects/LeetCodeAlgorithmsEasy/Check If Two String Arrays are Equivalent/Solution/Solution.h
+vector
+-
+string
+-
+
