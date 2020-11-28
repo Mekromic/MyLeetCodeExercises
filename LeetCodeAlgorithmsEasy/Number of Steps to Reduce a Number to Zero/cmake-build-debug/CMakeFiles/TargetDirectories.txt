@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/LeetCodeAlgorithmsEasy/Number of Steps to Reduce a Number to Zero/cmake-build-debug/CMakeFiles/Number_of_Steps_to_Reduce_a_Number_to_Zero.dir
+C:/Users/PC/CLionProjects/LeetCodeAlgorithmsEasy/Number of Steps to Reduce a Number to Zero/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/LeetCodeAlgorithmsEasy/Number of Steps to Reduce a Number to Zero/cmake-build-debug/CMakeFiles/rebuild_cache.dir

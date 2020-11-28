@@ -1,0 +1,11 @@
+#ifndef NUMBER_OF_STEPS_TO_REDUCE_A_NUMBER_TO_ZERO_SOLUTION_H
+#define NUMBER_OF_STEPS_TO_REDUCE_A_NUMBER_TO_ZERO_SOLUTION_H
+
+
+class Solution {
+public:
+    int numberOfSteps (int num);
+};
+
+
+#endif //NUMBER_OF_STEPS_TO_REDUCE_A_NUMBER_TO_ZERO_SOLUTION_H
