@@ -6,15 +6,9 @@
  * @return number of steps to reduce num to zero
  */
 int Solution::numberOfSteps(int num) {
-    static int counter(0);
-
-    if (num % 2 == 0 && num != 0) {
-        ++counter;
-        numberOfSteps(num / 2);
-    } else  if (num % 2) {
-        ++counter;
-        numberOfSteps(num - 1);
-    }
-
-    return counter;
+    if (num == 0)
+        return num;
+    if (num % 2 == 0)
+        return 1 + numberOfSteps(num / 2);
+    return  1 + numberOfSteps(num - 1);
 };
